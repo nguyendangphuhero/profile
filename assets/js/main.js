@@ -86,7 +86,7 @@ $(document).ready(function () {
   });
   // typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["Developer", "Student", "YouTuber", ".........."],
+    strings: ["Sinh viên BK", "Coder", "Developer", ".........."],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,

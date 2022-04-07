@@ -328,19 +328,19 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 75%;
+  width: 60%;
 }
 .skills__python {
-  width: 85%;
-}
-.skills__java {
-  width: 70%;
-}
-.skills__css {
   width: 50%;
 }
+.skills__java {
+  width: 50%;
+}
+.skills__css {
+  width: 60%;
+}
 .skills__js {
-  width: 40%;
+  width: 60%;
 }
 .skills__img {
   border-radius: 0.5rem;
@@ -464,6 +464,7 @@ img {
 .work_info {
   box-shadow: var(--lightShadow);
   transition: var(--mainTransition);
+  margin-bottom: 20px;
 }
 .work_info:hover {
   box-shadow: var(--darkShadow);
